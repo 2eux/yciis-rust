@@ -1,0 +1,29 @@
+# Build artifacts
+/target
+*.o
+*.obj
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files (use only in Coolify)
+.env
+.env.local
+
+# Git
+.git/
+.gitignore
+
+# Docs (separate)
+docs/
+SETUP.md
+README.md
+SECURITY.md
+ARCHITECTURE.md
